@@ -13,15 +13,3 @@ Une application de gestion de contacts utilisant la programmation orientée obje
 * **Concepts utilisés :** Classes et Objets, `ArrayList`, méthodes de recherche, constructeurs.
 
 
-## Installation et Exécution
-
-### Prérequis
-* Avoir le **JDK (Java Development Kit)** installé (version 17 ou plus récente recommandée).
-* Un terminal ou un IDE comme **IntelliJ IDEA**.
-
-### Compilation et Lancement
-
-1. **Cloner le dépôt :**
-   ```bash
-   git clone [https://github.com/soungalochrys69-dot/Exo-de-devinettes.git](https://github.com/soungalochrys69-dot/Exo-de-devinettes.git)
-   cd Exo-de-devinettes
