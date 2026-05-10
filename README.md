@@ -1,6 +1,6 @@
 ## Contenu du Projet
 
-### 1. Jeu de Devinettes (`GuessingGame.java`)
+### 1. Jeu de Devinettes (`jeu.java`)
 Un programme interactif où l'utilisateur doit trouver un nombre aléatoire entre 1 et 100.
 * **Contraintes respectées :** Utilisation d'une boucle, limite de 10 essais, et indices (plus grand/plus petit).
 * **Concepts utilisés :** `java.util.Random`, `java.util.Scanner`, Boucle `while`.
